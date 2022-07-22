@@ -1,19 +1,10 @@
 body {
-  background: radial-gradient(
-    759px at 15% 35%,
-    rgb(15, 164, 102) 0%,
-    rgb(10, 64, 88) 90%
+  background: linear-gradient(
+    109.6deg,
+    rgb(9, 9, 121) 11.2%,
+    hsl(293, 93%, 33%) 53.7%,
+    rgb(0, 212, 255) 100.2%
   );
-}
-
-a {
-  color: #ff66c4;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #e84a5f;
-  text-decoration: none;
 }
 
 .App {
@@ -35,4 +26,14 @@ a:hover {
   text-align: center;
   margin: 30px 0;
   color: #fff;
+}
+
+.App-footer a {
+  color: #eebca1;
+  text-decoration: none;
+}
+
+.App-footer a:hover {
+  color: #c6b9b3;
+  text-decoration: none;
 }

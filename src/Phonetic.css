@@ -8,13 +8,14 @@
   padding: 8px 15px;
   border-radius: 20px;
   margin-right: 10px;
-  font-size: 13px;
+  font-size: 14px;
   font-weight: bold;
+  color: #9006a1;
   transition: all 150ms ease-in-out;
 }
 
 .Phonetic a:hover {
-  background: #e84a5f;
+  background: #9006a1;
   color: white;
 }
 
