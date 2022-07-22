@@ -1,8 +1,17 @@
 body {
-  background: #ececec;
+  background: radial-gradient(
+    759px at 15% 35%,
+    rgb(15, 164, 102) 0%,
+    rgb(10, 64, 88) 90%
+  );
 }
 
 a {
+  color: #ff66c4;
+  text-decoration: none;
+}
+
+a:hover {
   color: #e84a5f;
   text-decoration: none;
 }
@@ -17,7 +26,7 @@ a {
 }
 
 .App-logo {
-  max-width: 180px;
+  max-width: 350px;
   display: block;
   margin: 0 auto;
 }
@@ -25,4 +34,5 @@ a {
 .App-footer {
   text-align: center;
   margin: 30px 0;
+  color: #fff;
 }
