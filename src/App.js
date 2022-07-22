@@ -11,7 +11,7 @@ function App() {
         </a>
       </header>
       <main>
-        <Dictionary defaultKeyword="crystals" />
+        <Dictionary defaultKeyword="crystal" />
       </main>
       <footer className="App-footer">
         <small>
