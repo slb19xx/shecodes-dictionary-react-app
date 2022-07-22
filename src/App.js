@@ -12,7 +12,23 @@ function App() {
         <Dictionary defaultKeyword="sunset" />
       </main>
       <footer className="App-footer">
-        <small>Open Source Code by Shari Baldie</small>
+        <small>
+          <a
+            href="https://github.com/slb19xx/shecodes-dictionary-react-app"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Open Source Code
+          </a>{" "}
+          by{" "}
+          <a
+            href="https://www.linkedin.com/in/sharibaldie/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Shari Baldie
+          </a>
+        </small>
       </footer>
     </div>
   );

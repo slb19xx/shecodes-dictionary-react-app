@@ -4,6 +4,12 @@ body {
 
 a {
   color: #e84a5f;
+  text-decoration: none;
+}
+
+.App {
+  max-width: 900px;
+  margin: 0 auto;
 }
 
 .App-header {
